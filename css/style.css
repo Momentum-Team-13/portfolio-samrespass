@@ -1,0 +1,5 @@
+/* global styling */
+body {background: linear-gradient(180deg, rgba(255,255,255,1) 30%, rgba(245,154,201,1) 69%);background-repeat:no-repeat;}
+/* index.html styles */
+header {width: 100%;}
+div.logo {max-width:300px;}
