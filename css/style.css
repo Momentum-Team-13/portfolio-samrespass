@@ -1,5 +1,9 @@
 /* global styling */
 body {background: linear-gradient(180deg, rgba(255,255,255,1) 30%, rgba(245,154,201,1) 69%);background-repeat:no-repeat;}
+div.wrap {max-width:1200px;margin:auto;}
 /* index.html styles */
-header {width: 100%;}
+#header {width: 100%;display:flex;justify-content: center;}
+#bodybox {display:flex;}
 div.logo {max-width:300px;}
+div.bannerImage {width: 600px;height:200px;background-image: url('/Users/sam/portfolio-samrespass/images/lovenebula.png');background-position:50% 44%;background-size:100%;}
+img.logo {max-width:300px;}
